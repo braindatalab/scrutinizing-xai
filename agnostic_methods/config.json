@@ -1,0 +1,13 @@
+{
+  "seed": 1142,
+  "method_names": [
+    "pfi",
+    "mr_empirical",
+    "firm",
+    "pattern",
+    "correlation",
+    "impurity"
+  ],
+  "data_path": "data/data_vary_signal_exact_2021-04-27-21-29-44_pattern_type_5.pkl",
+  "output_dir": "results/agnostic_methods"
+}

@@ -1,0 +1,10 @@
+{
+  "seed": 1142,
+  "method_names": [
+    "shap_linear",
+    "lime",
+    "anchors"
+  ],
+  "data_path": "data/data_vary_signal_exact_2021-04-23-16-01-52.pkl",
+  "output_dir": "results/agnostic_methods"
+}

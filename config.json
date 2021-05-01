@@ -1,0 +1,12 @@
+{
+  "seed": 1142,
+  "dpi": 300,
+  "data_path": "data/data_vary_signal_exact_2021-04-27-21-27-56_pattern_type_3.pkl",
+  "output_dir_scores": "results/scores",
+  "output_dir_plots": "results/plots_pattern_type_3",
+  "result_paths": [
+    "results/agnostic_methods/data_results_agnostic_global_2021-04-27-21-50-25_pattern_type_3.pkl",
+    "results/results_ramen/data_results_agnostic_sample_based_2021-04-29-09-58-19_pattern_type_3.pkl",
+    "results/saliency_methods/results_heatmapping_methods_pattern_type_3.pkl"
+  ]
+}

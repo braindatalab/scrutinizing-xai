@@ -1,0 +1,13 @@
+{
+  "num_experiments": 100,
+  "num_examples": 1000,
+  "val_size": 0.2,
+  "signal_scaling": 0.1,
+  "seed": 1142,
+  "pattern_type": 6,
+  "noise_type": "zero_mean_gaussian",
+  "signal_types": ["exact"],
+  "experiment_types": ["vary_signal"],
+  "num_data_weight_combinations": 5,
+  "output_dir": "data"
+}

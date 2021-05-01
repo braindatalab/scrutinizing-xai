@@ -1,0 +1,26 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+pytest = "*"
+
+[packages]
+jupyter = "*"
+matplotlib = "*"
+numpy = "*"
+scikit-learn = "*"
+pandas = "*"
+graphviz = "*"
+lime = "*"
+alibi = "*"
+rise = "*"
+tqdm = "*"
+seaborn = "*"
+shap = "*"
+ptitprince = "*"
+anchor-exp = "*"
+
+[requires]
+python_version = "3.7"
